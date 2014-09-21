@@ -1,5 +1,5 @@
 pkgname=urbanterror
-pkgver=4.2.018
+pkgver=4.2.019
 pkgrel=1
 pkgdesc="A team-based tactical shooter based on the Quake 3 Engine"
 arch=('x86_64')
@@ -7,12 +7,12 @@ url="http://www.urbanterror.info"
 license=('GPL2')
 depends=('sdl' 'openal' 'curl')
 makedepends=('mesa')
-source=("http://www.formulaworld.net/uploads/urt/UrbanTerror42_full018.zip"
+source=("http://mirror.urtstats.net/urbanterror/UrbanTerror42_full019.zip"
         "urbanterror.sh"
         "urbanterror-server.sh"
         "urbanterror.desktop"
         "urbanterror.png")
-md5sums=('5f841089fc53cf015fa6f21ac01869fe'
+md5sums=('e17a0708c8682e727a07f09ca5408f0c'
          '7812ece92ab71986ef038b3291adc412'
          'fbd3059497cf68769c0cbf02545c6bec'
          '08a99f4d7ad63024bc886e118ddcbc0f'
