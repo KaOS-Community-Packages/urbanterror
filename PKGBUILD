@@ -12,7 +12,7 @@ source=("http://up.barbatos.fr/urt/UrbanTerror42_full020.zip"
         "urbanterror-server.sh"
         "urbanterror.desktop"
         "urbanterror.png")
-md5sums=('e17a0708c8682e727a07f09ca5408f0c'
+md5sums=('eb6a1e9ba3e5fbf0dfbb8c1bc2ef621b'
          '7812ece92ab71986ef038b3291adc412'
          'fbd3059497cf68769c0cbf02545c6bec'
          '08a99f4d7ad63024bc886e118ddcbc0f'
